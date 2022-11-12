@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased] - yyyy-mm-dd
 
+- Require PHP `7.4.26`
 - Fixed a JS null pointer error on Doctum.cleanSearchQuery
 
 ## [5.5.1] - 2022-02-17
